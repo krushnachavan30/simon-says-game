@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-You can view the live demo of this project at [https://sumati4.github.io/Semon_say_game/](https://sumati4.github.io/Semon_say_game/).
+You can view the live demo of this project at [https://sumati4.github.io/Semon_say_game/](https://github.com/krushnachavan30/simon-says-game)).
 
 
 ## Overview:-
